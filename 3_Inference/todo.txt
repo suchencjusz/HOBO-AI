@@ -1,0 +1,12 @@
+todo
+
+znalezc dzialajace api ze zdjeciami
+
+-https://search.creativecommons.org/ - moze sie ogarnie
+https://www.budgetstockphoto.com/creative_commons_images.html
+
+
+- douczyc AI doda sie tam 200 zdj wiecej i bedzie juz lepiej
+
+- pobrac zdj z tych api
+- odpalic analize ich (jak bedzie 50k to mozna odpalac)
